@@ -118,7 +118,7 @@ b.max-bold{ font-weight: 700; }
 /* HEADER */
 
 .intro-section .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; margin-bottom: 50px;
-	background: #031D40; color: #fff; }
+	background: #fff; color: #031D40; }
 
 .intro-section .info{ margin-bottom: 10px; }
 
